@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-_69&qnf#mfk!nq_m2ps-9#md#7t71vi1$bkire8hu2)vqgo6-r
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'lorious-broccoli-r967x4rr9r2xw4r-8000.app.github.dev']
 
 
 # Application definition
